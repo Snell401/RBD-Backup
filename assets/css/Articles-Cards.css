@@ -1,0 +1,67 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.conlutoTub {
+}
+
+html::-webkit-scrollbar {
+  width: 15px;
+}
+
+html::-webkit-scrollbar-track {
+  background: var(--bs-gray-200);
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: #d7b799;
+  border-radius: 12px;
+  border: 3px solid var(--bs-gray-200);
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background-color: #887c75;
+}
+
+#homeBtn:hover {
+  color: #4b4747;
+}
+
+#produkteBtn:hover {
+  color: #fefefe !important;
+}
+
+#searchBtn {
+  cursor: text;
+}
+
+#thumbnailKreidezeit:hover {
+  cursor: pointer;
+}
+
+#thumbnailKreidezeit {
+  margin: 15px;
+  border-radius: 5px;
+  border: transparent;
+  padding: 15px;
+  background-color: transparent;
+  font-family: 'PT Sans';
+}
+
+.card-img {
+  border-radius: 5px;
+}
+
+#thumbnailKreidezeit > image {
+  border-radius: 10px;
+  border: 10px solid white;
+}
+
+.card-text {
+  font-family: 'Space Grotesk';
+}
+
+#breadcrumb-link {
+  text-decoration: none !important;
+}
+

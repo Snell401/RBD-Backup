@@ -1,0 +1,20 @@
+.footer-btns:hover {
+  background-color: var(--bs-primary);
+  color: var(--bs-gray-dark);
+}
+
+.modal-header {
+}
+
+#modal-1 {
+}
+
+#modalButton {
+  position: sticky;
+  bottom: 10px;
+}
+
+#modalButton:hover {
+  transform: scale(1.1);
+}
+
