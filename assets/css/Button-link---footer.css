@@ -1,0 +1,25 @@
+.btn {
+  /*float: right;*/
+}
+
+#placeholder {
+  cursor: inherit;
+  opacity: .8;
+}
+
+#modalButton {
+  float: right;
+}
+
+#Kreidezeit-btn {
+  float: right;
+}
+
+.ref-image {
+  /*border-radius: 50% !important;*/
+}
+
+#RBD-InitialText {
+  z-index: 12;
+}
+

@@ -1,0 +1,38 @@
+#thumbnailKreidezeit:hover {
+  cursor: pointer;
+  color: #32261b;
+}
+
+#thumbnailKreidezeit {
+  margin: 15px;
+  border-radius: 5px;
+  border: transparent;
+  padding: 15px;
+  background-color: transparent;
+  font-family: 'PT Sans';
+}
+
+#thumbnailKreidezeit > image {
+  width: 300px;
+  height: 200px;
+}
+
+#navcol-1 {
+}
+
+#paraLink > a {
+  color: #2a71a4;
+}
+
+#linkFarbe > a {
+  color: #2a71a4;
+}
+
+#paraLinkfarbe {
+  text-decoration: underline;
+}
+
+#paraLinkfarbe:hover {
+  color: #ebc985;
+}
+
